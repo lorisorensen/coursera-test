@@ -1,0 +1,2 @@
+C:\coursera-projects\coursera-test>git-cmd
+C:\coursera-projects\coursera-test>git status
